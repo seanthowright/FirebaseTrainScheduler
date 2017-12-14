@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+	background: url(../Assets/train_station.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron-fluid {
+	background: url(../Assets/train_car.jpg) no-repeat center center fixed;
+}
+
+.header-text {
+	text-align: center;
+	font-size: 80px;
+	color: white;
+	font-family: 'Montserrat Subrayada', sans-serif;
+	font-style: bold;
+}
+
+.panel-title {
+	text-align: center;
+} 
